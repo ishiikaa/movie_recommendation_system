@@ -1,1 +1,2 @@
 # movie_recommendation_system
+The provided code creates a movie recommender system that suggests similar movies based on their content. It uses information like movie titles, genres, and keywords to analyze and compare movies. The system calculates a similarity score between each pair of movies and recommends movies that have high similarity scores to a given movie. In other words, if you input a movie, the recommender system will suggest other movies that are similar in terms of their content, such as themes, genres, and keywords.
